@@ -8,10 +8,9 @@
 <body>
     <h1>Bienvenido a Mi Carpeta de Archivos</h1>
     <ul>
-        <li><a href="archivo1.pdf">Archivo 1</a></li>
-        <li><a href="archivo2.docx">Archivo 2</a></li>
-        <!-- Agrega más enlaces a tus archivos aquí -->[Uploading RERANDING DE LA MARCA_ HINELSON.pdf…]()
+        <li><a href="archivo1.pdf">Archivo 1</a></li>[Uploading RERANDING DE LA MARCA_ HINELSON.pdf…]()
 
-    </ul>
+        <li><a href="archivo2.docx">Archivo 2</a></li>
+        <!-- Agrega más enlaces a tus archivos aquí -->
 </body>
 </html>
